@@ -1,0 +1,3 @@
+[submodule "bicep-templates"]
+	path = bicep/bicep-templates
+	url = https://github.com/ap-communications/bicep-templates.git
